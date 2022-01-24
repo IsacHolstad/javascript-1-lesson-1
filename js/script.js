@@ -84,6 +84,15 @@ const profile = {
     age:"19",
     height:"187cm",
 }
-console.dir(profile);
+console.dir(profile.name);
+console.dir(profile.job);
+console.dir(profile.lastname);
+console.dir(profile.age);
+console.dir(profile.height);
 
+//ES6 strings using backticks
+//const sentence = 'one.
+//two';
+//console.log(sentence)
 
+console.dir(document)
